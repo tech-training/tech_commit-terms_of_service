@@ -1,3 +1,5 @@
+[![TechCommit](https://raw.githubusercontent.com/tech-training/tech_commit-terms_of_service/master/header.png)](https://www.tech-commit.jp)
+
 # 株式会社テクトレ TechCommit利用規約
 本利用規約（以下「本規約」と言います）には、[TechCommit](https://www.tech-commit.jp)の提供条件および当社と登録ユーザーの皆様との間の権利義務関係が定められています。  
 本サービスの利用に際しては、本規約および[TechCommitプライバシーポリシー](https://github.com/tech-training/tech_commit-privacy_policy)への同意を必要とします。
