@@ -182,7 +182,10 @@
 ---
 
 2019年11月01日改定  
-2019年04月10日制定
+2019年04月10日制定  
+
+※詳細な変更内容は下記masterブランチのコミットログをご確認ください。  
+https://github.com/tech-training/tech_commit_terms_of_service/commits/master  
 
 [![TechCommit](https://raw.githubusercontent.com/tech-training/tech_commit-terms_of_service/master/img/footer.png)](https://www.tech-commit.jp)
 
