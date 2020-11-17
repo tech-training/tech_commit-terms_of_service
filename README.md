@@ -181,7 +181,7 @@
 
 ---
 
-2019年11月01日制定
+2019年11月01日改定  
 2019年04月10日制定
 
 [![TechCommit](https://raw.githubusercontent.com/tech-training/tech_commit-terms_of_service/master/img/footer.png)](https://www.tech-commit.jp)
